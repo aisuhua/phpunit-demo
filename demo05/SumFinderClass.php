@@ -11,6 +11,7 @@ class SumFinderClass
 
     /**
      * 找出数组中相加的和最大的连续的那几个数，并返回他们的和
+     * @return array
      */
     public function findSum()
     {
