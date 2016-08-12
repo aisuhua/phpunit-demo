@@ -2,7 +2,7 @@
 
 use PHPUnit\Framework\TestCase;
 
-class GroupTest extends TestCase
+class GlobalTest extends TestCase
 {
     public static function setUpBeforeClass()
     {
