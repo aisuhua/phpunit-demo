@@ -2,6 +2,13 @@
 
 - Unit Testing 单元测试。测试核心的功能，该组件是孤立的。
 - Integration Testing 集成测试。测试与其他组件之间的交互是否正确
+- Functional testing 功能测试。
+
+## relation
+
+- [Codeception](http://codeception.com/) Elegant and Efficient Testing for PHP
+
+Behavior Driven Development 行为驱动开发
 
 ## issue
 

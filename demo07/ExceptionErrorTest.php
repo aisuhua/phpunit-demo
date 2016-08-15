@@ -3,7 +3,7 @@
 use PHPUnit\Framework\TestCase;
 
 /**
- * PHPUnit 会把所有捕捉到的错误都转换成 PHPUnit_Framework_Error 异常进行处理。所以我们可以异常的方式断言错误
+ * PHPUnit 会把所有捕捉到的错误都转换成 PHPUnit_Framework_Error 异常进行处理。所以我们可以用异常的方式断言错误
  * Class ExceptionErrorTest
  */
 class ExceptionErrorTest extends TestCase

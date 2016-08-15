@@ -30,7 +30,7 @@ class GlobalTest extends TestCase
         $this->assertTrue($tomorrow > $GLOBALS['config']->date);
 
         //由于关闭了备份，所以这里修改全局变量会直接改变它的值
-        $GLOBALS['config']->date = new \DateTime('tomorrow');
+        $GLOBALS['config']->date = $tomorrow;
     }
 
     public function testTomorrowIsolated()
