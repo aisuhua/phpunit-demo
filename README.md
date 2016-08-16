@@ -8,7 +8,7 @@
 
 - [Codeception](http://codeception.com/) Elegant and Efficient Testing for PHP
 
-Behavior Driven Development 行为驱动开发
+Behavior Driven Development BDD 行为驱动开发
 
 ## issue
 
@@ -16,5 +16,5 @@ Behavior Driven Development 行为驱动开发
 
 ## 参考文献
 
-- 《PHPUnit Essentials》
+- The Book 《PHPUnit Essentials》
 - [PHPUnit manual](https://phpunit.de/manual/current/en/index.html)
